@@ -8,7 +8,8 @@ To Develop a convolutional deep neural network for digit classification and to v
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![Uploading o6.png…]()
+
 
 ## DESIGN STEPS
 ### STEP 1: 
@@ -29,6 +30,10 @@ Fit the model
 Make prediction with test data and with an external data
 
 ## PROGRAM
+~~~
+NAME : v.charan sai
+REF  : 212221240061
+~~~
 ~~~
 import numpy as np
 from tensorflow import keras
@@ -128,19 +133,18 @@ print(x_single_prediction)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
+![266796366-7843d2db-c292-4018-93f1-ce6549a36929](https://github.com/charansai0/mnist-classification/assets/94296221/10bb88ee-07ff-4524-b51b-c9e4d8c26dd4)
 
-Include your plot here
+
 
 ### Classification Report
-
-Include Classification Report here
+![266796393-0393e7af-d4d8-4c2c-a6b1-2c7e050235f5](https://github.com/charansai0/mnist-classification/assets/94296221/0c9830e9-1c6f-44d7-a0bd-84583cf8acb5)
 
 ### Confusion Matrix
-
-Include confusion matrix here
-
+![266796419-d89bec76-0ecc-4974-abcc-b63a86cc0271](https://github.com/charansai0/mnist-classification/assets/94296221/7db1d4e5-d7b0-4156-9f2b-e0f30ab4046c)
 ### New Sample Data Prediction
+![image18](https://github.com/charansai0/mnist-classification/assets/94296221/67fc99ca-f102-464d-9983-3af880a165f4)
 
-Include your sample input and output for your hand written images.
 
 ## RESULT
+Thus, a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully.
