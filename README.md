@@ -144,7 +144,8 @@ print(x_single_prediction)
 ### Confusion Matrix
 ![266796419-d89bec76-0ecc-4974-abcc-b63a86cc0271](https://github.com/charansai0/mnist-classification/assets/94296221/7db1d4e5-d7b0-4156-9f2b-e0f30ab4046c)
 ### New Sample Data Prediction
-![image18](https://github.com/charansai0/mnist-classification/assets/94296221/67fc99ca-f102-464d-9983-3af880a165f4)
+![11](https://github.com/charansai0/mnist-classification/assets/94296221/88de661e-00c6-4f45-a901-05b4ed2fb468)
+
 
 
 ## RESULT
