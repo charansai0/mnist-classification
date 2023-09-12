@@ -8,7 +8,8 @@ To Develop a convolutional deep neural network for digit classification and to v
 
 ## Neural Network Model
 
-![Uploading o6.png…]()
+
+![3 0](https://github.com/charansai0/mnist-classification/assets/94296221/9c9eba07-d435-4dda-ac7d-5796cf049a61)
 
 
 ## DESIGN STEPS
